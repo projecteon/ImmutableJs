@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": false,
+    "jsx": "react",
+    "experimentalDecorators": false,
+    "emitDecoratorMetadata": false,
+    "declaration": false,
+    "module": "commonjs",
+    "charset": "utf8",
+    "newLine": "LF"
+  },
+  "filesglob": [
+      "./src/**/*.*"
+  ],
+  "exclude": [
+    "node_modules",
+    "styles",
+    ".vscode",
+    "dist"
+  ]
+}
