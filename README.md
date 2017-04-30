@@ -1,4 +1,4 @@
-# ImmutableJs
+e ImmutableJs
 Testing [ImmutablaJS](https://github.com/facebook/immutable-js) with [Typescript](http://www.typescriptlang.org/) and [Jest](https://facebook.github.io/jest/)
 
 Trying to find good patterns for writing maintainable code with ImmutableJS and Typescript.
